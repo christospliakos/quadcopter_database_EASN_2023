@@ -1,7 +1,8 @@
 **Paper will be added as soon as it will get published**
 
 # Enhancement of multirotor UAV conceptual design through Machine Learning algorithms
- *C. Pliakos^1,2^, D. Terzis^1,2^, S. Vlachos, C Bliamis^1,2^, K Yakinthos^1,2^*
+*C. Pliakos^1,2^, D. Terzis^1,2^, S. Vlachos, C Bliamis^1,2^, K Yakinthos^1,2^*
+
 *^1^Laboratory of Fluid Mechanics and Turbomachinery, Department of Mechanical Engineering, Aristotle University of Thessaloniki, 54124 Thessaloniki, Greece
 ^2^ UAV Integrated Research Center (UAV-iRC), Center for Interdisciplinary Research and Innovation (CIRI), Aristotle University of Thessaloniki, 57001 Thessaloniki, Greece*
 [kyak@auth.gr](mailto:kyak@auth.gr)
